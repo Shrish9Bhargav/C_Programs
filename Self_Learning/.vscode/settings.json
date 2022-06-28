@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "Average.C": "cpp",
+        "char.C": "cpp",
+        "smallest.C": "cpp",
+        "anon.C": "cpp",
+        "ex1.C": "cpp",
+        "ex2.C": "cpp",
+        "armstrong.C": "cpp",
+        "natural.C": "cpp"
+    }
+}

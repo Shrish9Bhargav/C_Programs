@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "Calci.C": "cpp",
+        "Litmus.C": "cpp",
+        "GP.C": "cpp",
+        "Convi.C": "cpp",
+        "convo.C": "cpp",
+        "fibonacci.C": "cpp",
+        "Reverse.C": "cpp",
+        "ReverseString.C": "cpp",
+        "pattern.C": "cpp",
+        "newprime.C": "cpp",
+        "prime_range.C": "cpp",
+        "assignment.C": "cpp"
+    }
+}
